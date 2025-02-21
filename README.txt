@@ -50,5 +50,3 @@ Este repositório documenta a criação e desenvolvimento do meu website profiss
 - 💼 [LinkedIn](https://www.linkedin.com/in/nsalvacao/)
 
 ---
-
-Este repositório reflete o processo de criação, estruturação e publicação do website, alinhado com as melhores práticas de SEO, automação e gestão de conteúdos. 🚀
