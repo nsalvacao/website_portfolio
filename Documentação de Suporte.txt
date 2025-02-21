@@ -1,0 +1,85 @@
+📌 1. Plataforma e Hospedagem
+🔹 WordPress - Documentação Oficial
+📌 https://wordpress.org/documentation/
+
+🔹 Twenty Twenty-Five Theme - WordPress
+📌 https://wordpress.org/themes/twentytwentyfive/
+
+📌 2. Plugins Utilizados
+🔹 Rank Math SEO - Documentação Oficial
+📌 https://rankmath.com/kb/
+
+🔹 Google Site Kit - Documentação Oficial
+📌 https://sitekit.withgoogle.com/documentation/
+
+🔹 TaxoPress (Gestão de Taxonomias e Tags) - Documentação Oficial
+📌 https://taxopress.com/docs/
+
+🔹 Really Simple SSL
+📌 https://really-simple-ssl.com/documentation/
+
+📌 3. Desenvolvimento e Personalização
+🔹 CSS e Personalização do Twenty Twenty-Five
+📌 https://developer.wordpress.org/themes/customize-api/
+
+🔹 Adicionar CSS Personalizado ao WordPress
+📌 https://wordpress.com/support/custom-css/
+
+🔹 Criar Child Theme no WordPress
+📌 https://developer.wordpress.org/themes/advanced-topics/child-themes/
+
+📌 4. Integração com o Google
+🔹 Google Search Console - Guia Oficial
+📌 https://search.google.com/search-console/about
+
+🔹 Google Analytics 4 - Documentação
+📌 https://support.google.com/analytics/answer/10089681
+
+🔹 Google Safe Browsing (Verificação de reputação do site)
+📌 https://transparencyreport.google.com/safe-browsing/search
+
+🔹 Submeter Site ao Microsoft SmartScreen (Para evitar bloqueios em firewalls empresariais)
+📌 https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site
+
+📌 5. Segurança e Performance
+🔹 Segurança para WordPress (WPBeginner Guide)
+📌 https://www.wpbeginner.com/wordpress-security/
+
+🔹 WP Activity Log
+📌 https://wpactivitylog.com/documentation/
+
+🔹 Otimização de Performance com WP Rocket
+📌 https://docs.wp-rocket.me/
+
+📌 6. Publicação e Indexação
+🔹 Como Indexar um Site no Google Search Console
+📌 https://support.google.com/webmasters/answer/7451184
+
+🔹 Sitemaps no Rank Math (Para SEO e Indexação)
+📌 https://rankmath.com/kb/how-to-submit-sitemap-to-google/
+
+🔹 Verificação do Robots.txt e Sitemap do WordPress
+📌 https://yoast.com/help/how-to-check-your-robots-txt-file/
+
+📌 7. Integração com GitHub
+🔹 GitHub Pages - Guia Oficial
+📌 https://docs.github.com/en/pages
+
+🔹 Como conectar WordPress ao GitHub
+📌 https://wplift.com/how-to-sync-wordpress-with-github
+
+🔹 Automação de Deploy do WordPress com GitHub Actions
+📌 https://github.com/marketplace/actions/deploy-wordpress
+
+📌 8. Melhorias Contínuas
+🔹 Checklist SEO do Rank Math para WordPress
+📌 https://rankmath.com/blog/wordpress-seo-checklist/
+
+🔹 Teste de Performance do Google PageSpeed Insights
+📌 https://pagespeed.web.dev/
+
+🔹 GTmetrix - Análise de Velocidade do Site
+📌 https://gtmetrix.com/
+
+🔹 Ferramenta de Teste de Mobile-Friendly do Google
+📌 https://search.google.com/test/mobile-friendly
